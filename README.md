@@ -22,5 +22,3 @@ The analysis, based on various visualizations, reveals significant variability i
 ## How to Use
 1. **Accessing the Dataset**: The datasets `twitter_training.csv` and `twitter_validation.csv` can be accessed in the repository.
 2. **Data Cleaning, Preprocessing, Visualization, and Analysis**: Refer to the Jupyter notebook file `TASK04.ipynb` provided in the repository for the complete workflow.
-
-This project provides valuable insights into public sentiment towards various entities, aiding in strategic decision-making and public opinion management.
